@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/hrsfs71-team-gvb/hrsfs71-team-gvb.png?label=ready&title=Ready)](https://waffle.io/hrsfs71-team-gvb/hrsfs71-team-gvb)
 # hrsfs71-team-gvb
 # GvB
 Good must triumph. The missions must succeed. By completing missions, Good will become one step closer to success yet Bad has cursed some of the good, ready for sabotage. Good must unmask them in five missions. We are Good!
